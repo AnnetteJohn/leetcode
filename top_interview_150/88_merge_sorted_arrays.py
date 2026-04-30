@@ -14,3 +14,7 @@ class Solution(object):
 
         nums1.sort()
         return
+    
+
+# Solution:
+# https://leetcode.com/problems/merge-sorted-array/editorial/?envType=study-plan-v2&envId=top-interview-150
